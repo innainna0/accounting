@@ -1,0 +1,26 @@
+body{
+    font-family: 'Roboto', sans-serif;
+    background-color: black;
+}
+
+.c-topbar-phone--link{
+    text-decoration: none;
+}
+.text-input{
+    border: none;
+    padding: 10px;
+    margin: 5px;
+    border-radius: 10px;
+    width: 100%;
+}
+.logo{
+    margin-right: 5px;
+    border-radius: 15px;
+}
+#language{
+    background-color: black;
+    color: white;
+    border: none;
+    margin-right: 5px;
+    font-size: 17px;
+}
